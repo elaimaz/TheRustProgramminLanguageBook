@@ -1,2 +1,2 @@
 # TheRustProgramminLanguageBook
-Exercises from the roost programming language
+Exercises from the rust programming language
